@@ -1,0 +1,7 @@
+{
+    "disableAutoUpdate": false,
+    "options": {
+    },
+    "servers": ["https://raw.githubusercontent.com/Yuyuko-sama/auto-claim-guardmisson-box/master/"],
+    "supportUrl": "https://github.com/Yuyuko-sama/auto-claim-guardmisson-box/issues"
+}

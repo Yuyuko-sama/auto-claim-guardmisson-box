@@ -1,0 +1,10 @@
+{
+	"files": {
+		"index.js": "647f5ca5333c3047d28d86ce66ebf4310a96c13b49ef41a46d192db79cc56ce8",
+		"module.json": "bd59ad7481aeb0394fe4953de7a8afe66b9e6dab27f798842588bb223997a067"
+	},
+	"defs": {
+		"C_REQUEST_FIELD_POINT_REWARD": 1,
+		"S_SYSTEM_MESSAGE": 1
+	}
+}
